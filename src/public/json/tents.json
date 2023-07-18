@@ -1,0 +1,141 @@
+[
+  {
+    "Id": "880RR",
+    "NameWithoutBrand": "NVIDIA GTX 1060",
+    "Name": "NVIDIA GTX 1060",
+    "Image": "../images/tents/graphicscard.png",
+
+    "SizesAvailable": {},
+    "Colors": [
+      {
+        "ColorCode": "01",
+        "ColorName": "Black/White"
+      }
+    ],
+    "DescriptionHtmlSimple": "Get the best for low price, you can't go wrong with this graphics card!",
+    "SuggestedRetailPrice": 300.0,
+    "Brand": {
+      "Id": "1308",
+      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "Name": "Nvidia"
+    },
+    "ListPrice": 199.99,
+    "FinalPrice": 199.99
+  },
+  {
+    "Id": "985RF",
+    "NameWithoutBrand": "NVIDIA GTX 1060",
+    "Name": "NVIDIA GTX 1060",
+    "Image": "../images/tents/graphicscard.png",
+
+    "SizesAvailable": {},
+    "Colors": [
+      {
+        "ColorCode": "01",
+        "ColorName": "Black/White"
+      }
+    ],
+    "DescriptionHtmlSimple": "Get the best for low price, you can't go wrong with this graphics card!",
+    "SuggestedRetailPrice": 300.0,
+    "Brand": {
+      "Id": "1308",
+      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "Name": "Nvidia"
+    },
+    "ListPrice": 199.99,
+    "FinalPrice": 199.99
+  },
+  {
+    "Id": "989CG",
+    "NameWithoutBrand": "NVIDIA GTX 1060",
+    "Name": "NVIDIA GTX 1060",
+    "Image": "../images/tents/graphicscard.png",
+
+    "SizesAvailable": {},
+    "Colors": [
+      {
+        "ColorCode": "01",
+        "ColorName": "Black/White"
+      }
+    ],
+    "DescriptionHtmlSimple": "Get the best for low price, you can't go wrong with this graphics card!",
+    "SuggestedRetailPrice": 300.0,
+    "Brand": {
+      "Id": "1308",
+      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "Name": "Nvidia"
+    },
+    "ListPrice": 199.99,
+    "FinalPrice": 199.99
+  },
+  {
+    "Id": "985PR",
+    "NameWithoutBrand": "NVIDIA GTX 1060",
+    "Name": "NVIDIA GTX 1060",
+    "Image": "../images/tents/graphicscard.png",
+
+    "SizesAvailable": {},
+    "Colors": [
+      {
+        "ColorCode": "01",
+        "ColorName": "Black/White"
+      }
+    ],
+    "DescriptionHtmlSimple": "Get the best for low price, you can't go wrong with this graphics card!",
+    "SuggestedRetailPrice": 300.0,
+    "Brand": {
+      "Id": "1308",
+      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "Name": "Nvidia"
+    },
+    "ListPrice": 199.99,
+    "FinalPrice": 199.99
+  },
+  {
+    "Id": "880RT",
+    "NameWithoutBrand": "NVIDIA GTX 1060",
+    "Name": "NVIDIA GTX 1060",
+    "Image": "../images/tents/graphicscard.png",
+
+    "SizesAvailable": {},
+    "Colors": [
+      {
+        "ColorCode": "01",
+        "ColorName": "Black/White"
+      }
+    ],
+    "DescriptionHtmlSimple": "Get the best for low price, you can't go wrong with this graphics card!",
+    "SuggestedRetailPrice": 300.0,
+    "Brand": {
+      "Id": "1308",
+      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "Name": "Nvidia"
+    },
+    "ListPrice": 199.99,
+    "FinalPrice": 199.99
+  },
+
+  {
+    "Id": "344YJ",
+    "NameWithoutBrand": "NVIDIA GTX 1060",
+    "Name": "NVIDIA GTX 1060",
+    "Image": "../images/tents/graphicscard.png",
+
+    "SizesAvailable": {},
+    "Colors": [
+      {
+        "ColorCode": "01",
+        "ColorName": "Black/White"
+      }
+    ],
+    "DescriptionHtmlSimple": "Get the best for low price, you can't go wrong with this graphics card!",
+    "SuggestedRetailPrice": 300.0,
+    "Brand": {
+      "Id": "1308",
+      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "Name": "Nvidia"
+    },
+    "ListPrice": 199.99,
+    "FinalPrice": 199.99
+  }
+]

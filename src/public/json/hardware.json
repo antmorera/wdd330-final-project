@@ -3,7 +3,7 @@
     "Id": "880RR",
     "NameWithoutBrand": "NVIDIA GTX 1060",
     "Name": "NVIDIA GTX 1060",
-    "Image": "../images/tents/graphicscard.png",
+    "Image": "/images/graphicscard.png",
 
     "SizesAvailable": {},
     "Colors": [
@@ -16,7 +16,7 @@
     "SuggestedRetailPrice": 300.0,
     "Brand": {
       "Id": "1308",
-      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "LogoSrc": "",
       "Name": "Nvidia"
     },
     "ListPrice": 199.99,
@@ -26,7 +26,7 @@
     "Id": "985RF",
     "NameWithoutBrand": "NVIDIA GTX 1060",
     "Name": "NVIDIA GTX 1060",
-    "Image": "../images/tents/graphicscard.png",
+    "Image": "/images/graphicscard.png",
 
     "SizesAvailable": {},
     "Colors": [
@@ -39,7 +39,7 @@
     "SuggestedRetailPrice": 300.0,
     "Brand": {
       "Id": "1308",
-      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "LogoSrc": "../public/images/tents/graphicscard.png",
       "Name": "Nvidia"
     },
     "ListPrice": 199.99,
@@ -49,7 +49,7 @@
     "Id": "989CG",
     "NameWithoutBrand": "NVIDIA GTX 1060",
     "Name": "NVIDIA GTX 1060",
-    "Image": "../images/tents/graphicscard.png",
+    "Image": "/images/graphicscard.png",
 
     "SizesAvailable": {},
     "Colors": [
@@ -62,7 +62,7 @@
     "SuggestedRetailPrice": 300.0,
     "Brand": {
       "Id": "1308",
-      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "LogoSrc": "../public/images/tents/graphicscard.png",
       "Name": "Nvidia"
     },
     "ListPrice": 199.99,
@@ -72,7 +72,7 @@
     "Id": "985PR",
     "NameWithoutBrand": "NVIDIA GTX 1060",
     "Name": "NVIDIA GTX 1060",
-    "Image": "../images/tents/graphicscard.png",
+    "Image": "/images/graphicscard.png",
 
     "SizesAvailable": {},
     "Colors": [
@@ -85,7 +85,7 @@
     "SuggestedRetailPrice": 300.0,
     "Brand": {
       "Id": "1308",
-      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "LogoSrc": "../public/images/tents/graphicscard.png",
       "Name": "Nvidia"
     },
     "ListPrice": 199.99,
@@ -95,7 +95,7 @@
     "Id": "880RT",
     "NameWithoutBrand": "NVIDIA GTX 1060",
     "Name": "NVIDIA GTX 1060",
-    "Image": "../images/tents/graphicscard.png",
+    "Image": "/images/graphicscard.png",
 
     "SizesAvailable": {},
     "Colors": [
@@ -108,7 +108,7 @@
     "SuggestedRetailPrice": 300.0,
     "Brand": {
       "Id": "1308",
-      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "LogoSrc": "../public/images/tents/graphicscard.png",
       "Name": "Nvidia"
     },
     "ListPrice": 199.99,
@@ -119,7 +119,7 @@
     "Id": "344YJ",
     "NameWithoutBrand": "NVIDIA GTX 1060",
     "Name": "NVIDIA GTX 1060",
-    "Image": "../images/tents/graphicscard.png",
+    "Image": "/images/graphicscard.png",
 
     "SizesAvailable": {},
     "Colors": [
@@ -132,7 +132,7 @@
     "SuggestedRetailPrice": 300.0,
     "Brand": {
       "Id": "1308",
-      "LogoSrc": "../images/logos/marmot-160x100.jpg",
+      "LogoSrc": "../public/images/tents/graphicscard.png",
       "Name": "Nvidia"
     },
     "ListPrice": 199.99,

@@ -1,0 +1,25 @@
+[
+  {
+    "Id": "223RN",
+    "NameWithoutBrand": "NVIDIA GTX 1060",
+    "Name": "NVIDIA GTX 1060",
+    "Image": "/public/images/graphicscard.png",
+
+    "SizesAvailable": {},
+    "Colors": [
+      {
+        "ColorCode": "01",
+        "ColorName": "Black/White"
+      }
+    ],
+    "DescriptionHtmlSimple": "Get the best for low price, you can't go wrong with this graphics card!",
+    "SuggestedRetailPrice": 300.0,
+    "Brand": {
+      "Id": "1308",
+      "LogoSrc": "",
+      "Name": "Nvidia"
+    },
+    "ListPrice": 199.99,
+    "FinalPrice": 199.99
+  }
+]

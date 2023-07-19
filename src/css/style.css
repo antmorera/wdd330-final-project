@@ -1,10 +1,8 @@
 :root {
-  --font-body: Arial, Helvetica, sans-serif;
-  --font-headline: Haettenschweiler, "Arial Narrow Bold", sans-serif;
   /* colors */
-  --primary-color: #f0a868;
-  --secondary-color: #525b0f;
-  --tertiary-color: #a4b8c4;
+  --primary-color: #393d3f;
+  --secondary-color: #62929e;
+  --tertiary-color: #546a7b;
   --light-grey: #d0d0d0;
   --dark-grey: #303030;
 
@@ -18,9 +16,11 @@
 }
 body {
   margin: 0;
-  font-family: var(--font-body);
+  font-family: "Tisa Sans Pro";
   font-size: var(--font-base);
+
   color: var(--dark-grey);
+  background-color: #fdfdfd;
 }
 img {
   max-width: 100%;
@@ -29,6 +29,7 @@ header {
   display: flex;
   justify-content: space-between;
   padding: 0 10px;
+  font-family: "Arvo", serif;
 }
 .logo {
   line-height: 60px;
@@ -49,33 +50,11 @@ header {
 }
 .hero {
   position: relative;
+  width: 100%; /* Added this line */
+  height: 0; /* Added this line */
+  padding-bottom: 15.25%; /* Adjust this value based on the aspect ratio of your video (e.g., 16:9 -> 56.25%) */
 }
-.hero .logo {
-  position: absolute;
-  left: calc(50% - 60px);
-  bottom: -10px;
-  background-color: white;
-}
-.logo--square {
-  font-size: var(--small-font);
-  width: 110px;
-  height: 80px;
 
-  flex-direction: column;
-  align-items: flex-end;
-  box-shadow: 1px 1px 4px var(--light-grey);
-  justify-content: center;
-  align-items: center;
-  line-height: 1;
-}
-.logo--square img {
-  width: 90px;
-  height: 90px;
-  margin-top: -1.3em;
-}
-.logo--square > div {
-  margin-top: -1.7em;
-}
 /* utility classes */
 .highlight {
   color: var(--tertiary-color);
@@ -106,10 +85,10 @@ button {
   text-align: center;
 }
 
-.cart svg {
+.cart img {
   width: 25px;
 }
-.cart:hover svg {
+.cart:hover img {
   fill: gray;
 }
 
@@ -124,6 +103,42 @@ button {
   text-align: center;
   color: var(--dark-grey);
   padding-left: 0;
+}
+
+.hardware:hover {
+  display: flex;
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Set the background color with transparency */
+}
+
+.hardware {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 10);
+}
+
+.pc-cases:hover {
+  display: flex;
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+}
+
+.pc-cases {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 10);
+}
+
+.accessories:hover {
+  display: flex;
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+}
+
+.accessories {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 10);
 }
 
 .product-grid > li {
@@ -253,7 +268,49 @@ button {
   }
 }
 
-footer {
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
   font-size: var(--small-font);
   padding: 1em;
+}
+
+.social-media {
+  position: relative;
+  bottom: 50px;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.social-media ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.social-media li {
+  margin-left: 10px;
+}
+
+.social-media img {
+  width: 20px;
+  height: 20px;
+}
+
+.google-maps {
+  position: relative;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.google-maps img {
+  width: 30px;
+  height: 30px;
 }

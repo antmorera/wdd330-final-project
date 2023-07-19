@@ -58,7 +58,7 @@ export async function renderWithTemplate(
 
 function loadTemplate(path) {
   return async function () {
-    const res = await fetch(path);
+    const res = await fetch(`/${path}`); // Prepend the path with a forward slash
     if (res.ok) {
       const html = await res.text();
       return html;

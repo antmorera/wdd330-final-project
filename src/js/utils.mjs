@@ -66,6 +66,7 @@ function loadTemplate(path) {
   };
 }
 
+// Header and footer //
 export async function loadHeaderFooter() {
   const headerTemplateFn = loadTemplate("../partials/header.html");
   const footerTemplateFn = loadTemplate("../partials/footer.html");
